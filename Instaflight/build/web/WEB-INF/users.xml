@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+    <user>
+        <name>Jun Ou</name>
+        <email>jun@gmail.com</email>
+        <password>abc123</password>
+        <dob>1996-12-10</dob>
+    </user>
+    <user>
+        <name>Andrew Hang</name>
+        <email>andrew@gmail.com</email>
+        <password>abc123</password>
+        <dob>1995-10-03</dob>
+    </user>
+    <user>
+        <name>Steve Mcnugget</name>
+        <email>steve@gmail.com</email>
+        <password>abc123</password>
+        <dob>1993-11-22</dob>
+    </user>
+</users>
